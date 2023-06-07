@@ -1,0 +1,12 @@
+../Core/Src/main.c:611:6:set_px_cb	8	static
+../Core/Src/main.c:624:6:rounder_cb	0	static
+../Core/Src/main.c:113:13:set_angle	0	static
+../Core/Src/main.c:580:6:LVGLTimer	8	static
+../Core/Src/main.c:589:6:flush_cb	32	static
+../Core/Src/main.c:638:6:StartDefaultTask	8	static
+../Core/Src/main.c:121:6:lv_example_arc_2	80	static
+../Core/Src/main.c:259:6:SystemClock_Config	104	static,ignoring_inline_asm
+../Core/Src/main.c:151:5:main	64	static,ignoring_inline_asm
+../Core/Src/main.c:547:6:OledRefreshTask	32	static
+../Core/Src/main.c:659:6:HAL_TIM_PeriodElapsedCallback	0	static
+../Core/Src/main.c:676:6:Error_Handler	0	static,ignoring_inline_asm

@@ -1,0 +1,5 @@
+../Drivers/lvgl/src/extra/themes/mono/lv_theme_mono.c:200:13:theme_apply	32	static
+../Drivers/lvgl/src/extra/themes/mono/../../../../src/hal/../draw/../misc/lv_style.h:529:20:lv_style_set_pad_all	16	static
+../Drivers/lvgl/src/extra/themes/mono/lv_theme_mono.c:494:13:style_init_reset	0	static
+../Drivers/lvgl/src/extra/themes/mono/lv_theme_mono.c:167:6:lv_theme_mono_is_inited	0	static
+../Drivers/lvgl/src/extra/themes/mono/lv_theme_mono.c:172:14:lv_theme_mono_init	40	static
